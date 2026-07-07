@@ -94,6 +94,18 @@ DBConnection.java
 
 ![Add Student](images/add.png)
 
+### Update Student
+
+![Update](images/.update.png)
+
+### Delete Student
+
+![Delete](images/.delete.png)
+
+### Search Student
+
+![search](images/.search.png)
+
 ### Dashboard
 
 ![Dashboard](images/dashboard.png)
@@ -103,7 +115,7 @@ DBConnection.java
 
 **Ahtisham Ahmad**
 
-Java Developer
+Java Developer and database developer
 
 GitHub:
 https://github.com/AhtishamAhmad619
