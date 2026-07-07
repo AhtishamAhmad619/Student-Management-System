@@ -96,15 +96,15 @@ DBConnection.java
 
 ### Update Student
 
-![Update](images/.update.png)
+![Update](images/update.png)
 
 ### Delete Student
 
-![Delete](images/.delete.png)
+![Delete](images/delete.png)
 
 ### Search Student
 
-![search](images/.search.png)
+![search](images/search.png)
 
 ### Dashboard
 
